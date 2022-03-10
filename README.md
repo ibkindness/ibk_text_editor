@@ -1,6 +1,15 @@
 # ibk text editor
 ## Screenshots
 
+![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203609.png)
+
+
+![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203643.png)
+
+
+![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203713.png)
+
+
 ![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203117.png)
 
 
@@ -8,13 +17,6 @@
 
 
 ![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203552.png)
-
-
-![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203609.png)
-
-![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203643.png)
-
-![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203713.png)
 
 
 ## Installing and running ibk text editor
