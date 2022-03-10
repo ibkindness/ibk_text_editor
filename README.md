@@ -4,13 +4,18 @@
 ![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203117.png)
 
 
-![](ss/Screenshot%202021-07-25%20154932.png)
+![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203531.png)
 
 
-![](ss/Screenshot%202021-07-25%20155005.png)
+![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203552.png)
 
 
-![](ss/Screenshot%202021-07-25%20155032.png)
+![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203609.png)
+
+![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203643.png)
+
+![](https://github.com/irfankurtagic/ibk_text_editor/blob/main/ibk%20text%20editor%20ss/Screenshot%202022-03-10%20203713.png)
+
 
 ## Installing and running ibk text editor
 ### Via GitHub with MSI
